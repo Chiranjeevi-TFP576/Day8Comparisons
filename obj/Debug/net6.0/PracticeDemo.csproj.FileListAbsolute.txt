@@ -1,0 +1,15 @@
+D:\Bridgelabs\PracticeDemo\PracticeDemo\bin\Debug\net6.0\PracticeDemo.exe
+D:\Bridgelabs\PracticeDemo\PracticeDemo\bin\Debug\net6.0\PracticeDemo.deps.json
+D:\Bridgelabs\PracticeDemo\PracticeDemo\bin\Debug\net6.0\PracticeDemo.runtimeconfig.json
+D:\Bridgelabs\PracticeDemo\PracticeDemo\bin\Debug\net6.0\PracticeDemo.dll
+D:\Bridgelabs\PracticeDemo\PracticeDemo\bin\Debug\net6.0\PracticeDemo.pdb
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\PracticeDemo.csproj.AssemblyReference.cache
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\PracticeDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\PracticeDemo.AssemblyInfoInputs.cache
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\PracticeDemo.AssemblyInfo.cs
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\PracticeDemo.csproj.CoreCompileInputs.cache
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\PracticeDemo.dll
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\refint\PracticeDemo.dll
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\PracticeDemo.pdb
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\PracticeDemo.genruntimeconfig.cache
+D:\Bridgelabs\PracticeDemo\PracticeDemo\obj\Debug\net6.0\ref\PracticeDemo.dll
